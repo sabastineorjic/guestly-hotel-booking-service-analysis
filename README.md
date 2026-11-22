@@ -6,9 +6,8 @@ Excel dashboard and findings report from a 5-day Agile sprint on the Digital Gue
 
 ## Project overview
 
-The sprint brief covered nine departments: Product Management, UI/UX, Frontend, Backend, Cybersecurity, Data Analysis, Data Science, AI/ML and Virtual Assistance. The platform targeted two problems: guests abandoning hotel bookings, and slow, poorly tracked service requests.
-
-I led the team and owned the data analysis: cleaning the data, analysing booking and service performance, building the KPI dashboard, and turning the results into recommendations for the other departments.
+Data analysis project from a cross-functional sprint at Techy Jaunt, where students from different learning paths team up to build a hotel web application.
+I led the Data Analysis track: cleaning the data, analysing booking and service performance, building the KPI dashboard, and writing recommendations for the other teams.
 
 ## Business questions
 
