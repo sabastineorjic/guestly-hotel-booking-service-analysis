@@ -6,7 +6,7 @@ Excel dashboard and findings report from a 5-day Agile sprint on the Digital Gue
 
 ## Project overview
 
-A cross-functional team of [number] people worked across Product Management, UI/UX, Frontend, Backend, Cybersecurity, Data Analysis, Data Science, AI/ML and Virtual Assistance. The platform targeted two problems: guests abandoning hotel bookings, and slow, poorly tracked service requests.
+The sprint brief covered nine departments: Product Management, UI/UX, Frontend, Backend, Cybersecurity, Data Analysis, Data Science, AI/ML and Virtual Assistance. The platform targeted two problems: guests abandoning hotel bookings, and slow, poorly tracked service requests.
 
 I led the team and owned the data analysis: cleaning the data, analysing booking and service performance, building the KPI dashboard, and turning the results into recommendations for the other departments.
 
@@ -40,11 +40,11 @@ Excel (PivotTables, slicers, charts, data cleaning), Agile Scrum, Jira, stakehol
 
 - `Guestly_Performance_Service.xlsx`: cleaned data, pivot tables and the KPI dashboard
 - `DGEP_Data_Analysis_Findings_and_Recommendations.docx`: full findings and recommendations by department
-- `images/`: dashboard screenshots
+- `dashboard.png`: preview of the KPI dashboard
 
 ## Dashboard preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Limitations
 
@@ -52,4 +52,4 @@ The data is synthetic and the sample is small, so small differences between grou
 
 ## Author
 
-[Your name] | [LinkedIn link] | [Portfolio link]
+Orji Sabastine Chibeze | [LinkedIn](https://www.linkedin.com/in/sabastine-orji-b95823415) | [Portfolio](https://sabastineorjic.github.io)
